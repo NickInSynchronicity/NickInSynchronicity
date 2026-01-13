@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickInSynchronicity
-- 👀 I’m interested in applying ROS2 onto industrial robotics application, as well as biomedical surgical applications which is my main area of research.
+- 👀 I’m interested in applying ROS2 onto industrial robotics application, as well as humanoids in construction and civil applications which are my main research focus.
 - 🌱 I’m currently learning how to transition from a robotics end user into a true robotics engineer.
 - 💞️ I’m looking to collaborate on customised cobot-type manipulator projects involving ROS2 platforms.
 - 📫 Attempting to complete a part-time PhD programme at National University of Singapore so hit me up at Nickchew@nus.edu.sg if you would like to collaborate on something.
